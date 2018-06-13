@@ -1,13 +1,22 @@
-h1, em
-{
-    color: blue; /* les paragraphes sont en bleu*/
+body {
+
+    color: #454545;
+    font-family: Open Sans,Arial;
+    font-size: 16px;
+    margin: 2em auto;
+    max-width: 800px;
+    padding: 1em;
+    line-height: 1.4;
+    text-align: justify;
+
 }
 
-.introduction
-{
+
+
+  
+.introduction {
     color: blue;
 }
-.salutations
-{
+.salutations {
     color: red;
 }
